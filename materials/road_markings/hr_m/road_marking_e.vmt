@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	
+	"$basetexture" "road_markings/hr_m/road_markings_e"
+$translucent 1
+	$alpha 1
+}
