@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\props\cs_militia\rocka\Rock_A_diffuse"
+	"$bumpmap"	"models\props\cs_militia\rocka\Rock_A_normals"
+	//"$detail"	"detail\dt_stone1"
+	//"$detailscale"	10
+	//"$detailblendfactor" 0.8	
+	"$phong" ".3"
+	"$phongboost" ".35"
+	"$phongexponent" "130"
+
+
+}

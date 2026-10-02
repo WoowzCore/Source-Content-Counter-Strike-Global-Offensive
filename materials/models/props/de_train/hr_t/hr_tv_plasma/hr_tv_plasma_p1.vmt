@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props\de_train\hr_t\hr_tv_plasma\hr_tv_plasma_p1.vtf"
+
+	
+	
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\props\de_train\hr_t\hr_tv_plasma\hr_tv_plasma_p1_mask.vtf"
+ 
+//	"$envmapfresnel" "1"
+	
+	"$envmaptint" 		"[60 60 60]"
+	"$envmapcontrast" "1.01"
+	
+
+}
+
