@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+$baseTexture "concrete/hr_c/inferno/concrete_a"
+
+$surfaceprop concrete
+$bumpmap "concrete/hr_c/inferno/concrete_a"
+	"$detail" 				"detail\detailconcrete001a"
+	"$detailscale" 			"[8 8 8]"
+	"$detailblendfactor" 	".5"
+
+	"$normalmapalphaenvmapmask" "1"
+
+
+}
